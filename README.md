@@ -8,6 +8,18 @@
 - Written entirely in Python
 - Modular scripts for easy customization and extension
 
+## Installation
+
+Before using the project files, ensure you have the necessary libraries installed in your Visual Studio Code **virtual environment**. Open your terminal in VS Code and run the following commands:
+- pip install selenium
+- pip install bs4
+- pip install pandas
+
+These commands will install:
+- **selenium**: For browser automation and web scraping
+- **bs4**: For parsing HTML with Beautiful Soup
+- **pandas**: For data manipulation and analysis
+
 ## Project Structure
 
 | File        | Description                             |
