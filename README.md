@@ -20,6 +20,24 @@ These commands will install:
 - **bs4**: For parsing HTML with Beautiful Soup
 - **pandas**: For data manipulation and analysis
 
+## Using Proxy Servers (Webshare)
+
+To enhance the reliability and anonymity of your web scraping activities, this project supports the use of proxy servers. Integrating proxies helps you extract data from websites without getting traced or banned. 
+
+**Why Use Proxies?**
+- Proxies mask your real IP address, protecting your identity and reducing the risk of IP bans.
+- They enable you to bypass geo-restrictions and access region-specific content.
+
+**Webshare Proxy Integration**
+
+This project recommends using [Webshare](https://www.webshare.io/) proxies for web scraping. Webshare offers a wide range of high-quality residential and datacenter proxies, which are ideal for accessing websites securely and anonymously. Webshare also provides a user-friendly dashboard, flexible authentication options, and global coverage, allowing you to select proxies from various countries as needed.
+
+**Getting Started with Webshare Proxies**
+1. Sign up for a free or paid plan on the Webshare website.
+2. Choose your preferred proxy type (residential or datacenter) and location.
+3. Configure your authentication method (username/password or IP whitelisting).
+4. Download your proxy list or copy the proxy credentials.
+
 ## Project Structure
 
 | File        | Description                             |
